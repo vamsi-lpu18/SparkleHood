@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import './App.css'
 
-// Mock data structure for AI safety incidents
 interface Incident {
   id: number;
   title: string;
